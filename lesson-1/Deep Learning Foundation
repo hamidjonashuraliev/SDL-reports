@@ -1,0 +1,161 @@
+1. Deep Learning (Chuqur o‘rganish) nima?
+
+Javob:
+
+Deep Learning — bu sun’iy intellektning bir yo‘nalishi bo‘lib, kompyuterga inson miyasi kabi ma’lumotlardan o‘rganish imkonini beradi. U sun’iy neyron tarmoqlari yordamida murakkab ma’lumotlarni tahlil qiladi.
+
+1.1. Deep Learning an’anaviy Machine Learning'dan qanday farq qiladi?
+
+Javob: Machine Learning'da ko‘pincha xususiyatlarni inson tanlaydi, Deep Learning esa muhim xususiyatlarni ma’lumotlardan avtomatik o‘rganishi mumkin.
+
+1.2. Nima uchun Deep Learning sun’iy neyron tarmoqlaridan foydalanadi?
+
+Javob: Chunki neyron tarmoqlari katta hajmdagi ma’lumotlarni qayta ishlash va murakkab qonuniyatlarni o‘rganish imkonini beradi.
+
+2. Shallow Machine Learning va Deep Learning o‘rtasidagi asosiy farq nimada?
+
+Javob:
+
+Shallow Machine Learning oddiyroq algoritmlardan foydalanadi va ko‘pincha xususiyatlarni qo‘lda tanlashni talab qiladi. Deep Learning esa ko‘p qatlamli neyron tarmoqlaridan foydalanib, xususiyatlarni avtomatik o‘rganadi.
+
+2.1. Nima uchun Shallow Machine Learning'da xususiyatlarni qo‘lda tanlash talab qilinadi?
+
+Javob: Chunki oddiy algoritmlar murakkab xususiyatlarni har doim ham mustaqil aniqlay olmaydi. Shuning uchun inson ularga kerakli xususiyatlarni oldindan belgilaydi.
+
+2.2. Deep Learning ma’lumotlardan muhim xususiyatlarni qanday avtomatik o‘rganadi?
+
+Javob: Neyron tarmoqlarining qatlamlari ma’lumotlarni bosqichma-bosqich tahlil qiladi va muhim belgilarni o‘rganadi.
+
+3. Deep Learning kundalik hayotimizning qaysi sohalarida uchraydi?
+
+Javob:
+
+Deep Learning kundalik hayotimizda telefon, internet, tibbiyot, transport va bank tizimlarida ishlatiladi.
+
+Masalan:
+
+Face ID — yuzni aniqlash.
+YouTube — video tavsiya qilish.
+Google Translate — tarjima qilish.
+ChatGPT — matnni tushunish va javob yaratish.
+
+3.1. Deep Learning yuzni tanib olish tizimida qanday ishlaydi?
+
+Javob: U inson yuzidagi ko‘z, burun va yuz shakli kabi belgilarni tahlil qilib, shaxsni aniqlaydi.
+
+3.2. YouTube videolarni tavsiya qilishda Deep Learning'dan qanday foydalanadi?
+
+Javob: U foydalanuvchining ko‘rgan videolari, qiziqishlari va faoliyatini tahlil qilib, unga mos videolarni tavsiya qiladi.
+
+4. Sun’iy neyron tarmog‘i (Neural Network) nima?
+
+Javob:
+
+Neural Network — inson miyasidagi neyronlardan ilhomlanib yaratilgan matematik model. U ma’lumotlarni qabul qiladi, qayta ishlaydi va natija chiqaradi.
+
+4.1. Sun’iy neyron tarmog‘i inson miyasidan qanday ilhomlanib yaratilgan?
+
+Javob: Inson miyasi neyronlar orqali ma’lumotlarni qayta ishlaydi. Sun’iy neyron tarmog‘i ham o‘zaro bog‘langan sun’iy neyronlar yordamida ma’lumotlarni qayta ishlaydi.
+
+4.2. Neyron tarmog‘i qanday asosiy qismlardan tashkil topadi?
+
+Javob: Uchta asosiy qismdan tashkil topadi:
+
+Input Layer — ma’lumotlarni qabul qiladi.
+Hidden Layer — ma’lumotlarni qayta ishlaydi.
+Output Layer — yakuniy natijani chiqaradi.
+5. Neyron tarmog‘idagi kirish qatlami (Input Layer) nima vazifani bajaradi?
+
+Javob:
+
+Input Layer — neyron tarmog‘ining birinchi qatlami. U tashqi ma’lumotlarni qabul qilib, keyingi qatlamlarga uzatadi.
+
+5.1. Input Layer qanday turdagi ma’lumotlarni qabul qilishi mumkin?
+
+Javob: Rasm, matn, ovoz, video va sonli ma’lumotlarni qabul qilishi mumkin.
+
+5.2. Agar kiruvchi ma’lumotlar noto‘g‘ri yoki to‘liq bo‘lmasa, qanday muammolar yuzaga keladi?
+
+Javob: Model noto‘g‘ri o‘rganishi va xato natijalar chiqarishi mumkin. Shuning uchun ma’lumotlarni oldindan tozalash muhim.
+
+6. Yashirin qatlam (Hidden Layer) nima?
+
+Javob:
+
+Hidden Layer — Input Layer va Output Layer orasida joylashgan qatlam. U ma’lumotlarni tahlil qiladi, muhim xususiyatlarni o‘rganadi va keyingi qatlamga uzatadi.
+
+6.1. Nima uchun Hidden Layer Deep Learning'da muhim hisoblanadi?
+
+Javob: Chunki u ma’lumotlardagi murakkab bog‘liqlik va xususiyatlarni o‘rganishga yordam beradi.
+
+6.2. Yashirin qatlamlar sonini ko‘paytirish modelga qanday ta’sir qiladi?
+
+Javob: Model murakkabroq xususiyatlarni o‘rganishi mumkin. Lekin o‘qitish uchun ko‘proq vaqt va hisoblash resurslari talab qilinadi.
+
+7. Chiqish qatlami (Output Layer) nima vazifani bajaradi?
+
+Javob:
+
+Output Layer — neyron tarmog‘ining oxirgi qatlami. U qayta ishlangan ma’lumotlar asosida yakuniy natija yoki bashoratni chiqaradi.
+
+7.1. Output Layer yakuniy bashorat yoki natijani qanday chiqaradi?
+
+Javob: Oldingi qatlamlardan kelgan ma’lumotlarni qayta ishlab, vazifaga mos natijani chiqaradi. Masalan, rasmda mushuk yoki it borligini aniqlaydi.
+
+7.2. Input Layer va Output Layer o‘rtasidagi farq nimada?
+
+Javob: Input Layer ma’lumotlarni qabul qiladi, Output Layer esa yakuniy natijani chiqaradi.
+
+8. Nima uchun Deep Learning katta hajmdagi va murakkab muammolarni hal qilishda samarali?
+
+Javob:
+
+Deep Learning katta hajmdagi ma’lumotlarni tahlil qilish, murakkab qonuniyatlarni aniqlash va avtomatik xususiyatlarni o‘rganish imkoniyatiga ega.
+
+8.1. Deep Learning katta hajmdagi ma’lumotlarni qanday qayta ishlaydi?
+
+Javob: Neyron tarmoqlaridagi ko‘plab hisob-kitoblar orqali ma’lumotlarni o‘rganadi va ulardagi muhim qonuniyatlarni aniqlaydi.
+
+8.2. Katta Deep Learning modellarini o‘qitishda GPU nima uchun muhim?
+
+Javob: GPU bir vaqtning o‘zida ko‘plab matematik hisob-kitoblarni bajarishi mumkin. Bu modelni o‘qitish jarayonini tezlashtiradi.
+
+9. Xususiyatlarni avtomatik ajratib olish (Automatic Feature Extraction) nima?
+
+Javob:
+
+Automatic Feature Extraction — modelning ma’lumotlardan muhim xususiyatlarni inson aralashuvisiz avtomatik o‘rganish jarayoni.
+
+9.1. Deep Learning rasmdagi muhim xususiyatlarni qanday aniqlaydi?
+
+Javob: Dastlab oddiy belgilar, masalan, chiziqlar va ranglarni o‘rganadi. Keyingi qatlamlarda shakllar va murakkab obyektlarni aniqlaydi.
+
+9.2. Xususiyatlarni qo‘lda ajratish va avtomatik ajratish o‘rtasidagi farq nimada?
+
+Javob: Qo‘lda ajratishda inson kerakli xususiyatlarni belgilaydi. Avtomatik ajratishda esa model ularni ma’lumotlardan o‘zi o‘rganadi.
+
+10. Deep Learning'ning asosiy afzalliklari va kamchiliklari nimalardan iborat?
+
+Javob:
+
+Afzalliklari:
+
+Katta hajmdagi ma’lumotlarni qayta ishlaydi.
+Murakkab qonuniyatlarni o‘rganadi.
+Xususiyatlarni avtomatik aniqlaydi.
+Rasm, ovoz va matn bilan ishlay oladi.
+
+Kamchiliklari:
+
+Ko‘p ma’lumot talab qilishi mumkin.
+Kuchli kompyuter resurslari kerak.
+O‘qitish ko‘p vaqt olishi mumkin.
+Natijani tushuntirish ba’zan qiyin.
+
+10.1. Nima uchun Deep Learning ko‘p miqdordagi ma’lumot va kuchli hisoblash resurslarini talab qiladi?
+
+Javob: Chunki neyron tarmoqlarida juda ko‘p matematik hisob-kitoblar bajariladi. Murakkab modellarni yaxshi o‘qitish uchun katta ma’lumot va kuchli GPU kerak bo‘lishi mumkin.
+
+10.2. Deep Learning har doim an’anaviy Machine Learning'dan yaxshiroqmi? Nima uchun?
+
+Javob: Yo‘q. Deep Learning har doim ham yaxshiroq emas. Kichik va oddiy ma’lumotlarda an’anaviy Machine Learning tezroq va samaraliroq bo‘lishi mumkin.
