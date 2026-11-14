@@ -1,0 +1,68 @@
+
+Neural Network – 5 ta Basic Question va 10 ta Follow-up Question
+
+1. Neural Network nima?
+Javob: Neural Network — inson miyasining ishlash prinsipidan ilhomlanib yaratilgan, sun'iy neyronlardan tashkil topgan matematik model. U ma'lumotlarni qayta ishlaydi va ulardan o‘rganadi.
+
+Follow-up 1: Neural Network va Human Brain o‘rtasida qanday o‘xshashlik bor?
+
+Javob: Inson miyasi biologik neyronlardan, Neural Network esa sun'iy neyronlardan foydalanadi. Ikkalasi ham ma'lumotlarni qayta ishlash va o‘rganish imkoniyatiga ega.
+
+Follow-up 2: Bitta Neuron va Neural Network o‘rtasidagi farq nima?
+
+Javob: Neuron — bitta hisoblash birligi. Neural Network esa ko‘plab neyronlarning o‘zaro bog‘lanishidan tashkil topgan tarmoq.
+2. Neuron nima va u qanday ishlaydi?
+Javob: Neuron — Neural Network'ning asosiy hisoblash birligi. U ma'lumotni qabul qiladi, matematik hisob-kitob bajaradi va natija chiqaradi.
+
+Follow-up 1: Neuron qanday formula orqali ishlaydi?
+
+Javob:
+\[
+y=f(Wx+b)
+\]
+Bu yerda:
+- x — Input (kiruvchi ma'lumot).
+- W — Weight (og‘irlik).
+- b — Bias (qo‘shimcha parametr).
+- f — Activation Function.
+- y — Output (natija).
+Follow-up 2: Neuron nima uchun Weight va Bias'dan foydalanadi?
+
+Javob: Weight kiruvchi ma'lumotning ahamiyatini belgilaydi. Bias esa hisoblash natijasini moslashtirishga yordam beradi.
+3. Activation Function nima va nima uchun kerak?
+Javob: Activation Function — neyron hisoblagan natijani qayta ishlab, uning chiqish qiymatini belgilaydigan matematik funksiya.
+
+Follow-up 1: Activation Function bo‘lmasa nima sodir bo‘ladi?
+
+Javob: Neural Network murakkab nochiziqli bog‘liqliklarni o‘rgana olmaydi. Ko‘p qatlamli tarmoq ham chiziqli hisoblash bilan cheklanib qoladi.
+
+Follow-up 2: Activation Function'ning qanday turlari mavjud?
+
+Javob:
+- ReLU — manfiy qiymatlarni 0 qiladi.
+- Sigmoid — qiymatni 0 va 1 oralig‘iga o‘tkazadi.
+- Tanh — qiymatni -1 va 1 oralig‘iga o‘tkazadi.
+- Softmax — sinflar bo‘yicha ehtimolliklarni hisoblaydi.
+4. Algorithm va Model o‘rtasidagi farq nima?
+Javob: Algorithm — modelni o‘rgatish uchun ishlatiladigan usul. Model esa training jarayonida ma'lumotlardan o‘rgangan natijadir.
+
+Follow-up 1: Trainingdan oldin va keyin qanday farq mavjud?
+
+Javob:
+- Trainingdan oldin — Algorithm.
+- Trainingdan keyin — Trained Model.
+Masalan, Decision Tree (DT) va Logistic Regression (LR) algoritmlari trainingdan keyin o‘rgatilgan modellarga aylanadi.
+
+Follow-up 2: Neural Network va Deep Learning o‘rtasida qanday bog‘liqlik bor?
+
+Javob: Neural Network — sun'iy neyronlardan tashkil topgan model. Deep Learning esa ko‘p qatlamli Neural Network yordamida ma'lumotlardan o‘rganish usuli.
+5. Neural Network qanday o‘rganadi?
+Javob: Neural Network ma'lumotlarni qabul qiladi, hisob-kitob bajaradi, xatolikni aniqlaydi va Weight qiymatlarini yangilash orqali o‘rganadi.
+
+Follow-up 1: Forward Propagation nima?
+
+Javob: Ma'lumotlarning Input Layer'dan Output Layer'ga qarab harakatlanishi va Prediction hosil qilish jarayoni.
+
+Follow-up 2: Backward Propagation nima?
+
+Javob: Model xatosining gradientlarini orqaga uzatish va Weight qiymatlarini yangilash uchun kerakli gradientlarni hisoblash jarayoni.
